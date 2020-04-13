@@ -18,7 +18,7 @@ BY -- Ankit Kr. Rouniyar.
 	
  	OUTPUT::
  	the sequence of the job for maximum profit is :: b a d
-	And the profit is 4
+	And the profit is 40
   
 	The overall timeComplexity for this solution is O(n^2)
 
