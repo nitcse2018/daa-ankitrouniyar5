@@ -1,0 +1,4 @@
+Byte Streams
+Java byte streams are used to perform input and output of 8-bit bytes. 
+Though there are many classes related to byte streams but the most frequently used classes are, 
+FileInputStream and FileOutputStream
